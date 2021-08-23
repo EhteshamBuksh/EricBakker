@@ -1,4 +1,4 @@
-# EricBakker
+# Digi Clock
 Digi Clock
 <!DOCTYPE html>
 <html lang="en">
