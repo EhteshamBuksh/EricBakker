@@ -1,5 +1,5 @@
-# Digi Clock
-Digi Clock
+
+#DIGI CLOCK
 <!DOCTYPE html>
 <html lang="en">
 <head>
